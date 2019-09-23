@@ -9,5 +9,6 @@ public class TestHutool {
         String dateStr = "2012-12-12 12:12:12";
         Date date = DateUtil.parse(dateStr);
         System.out.println(date);
+        System.out.println("修复");
     }
 }
